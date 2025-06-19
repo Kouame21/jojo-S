@@ -48,7 +48,6 @@ Le choix dépendra de la complexité de votre projet, de vos besoins en ressourc
         <div id="special-links" class="hidden bg-white border rounded-lg shadow p-4">
           <ul class="space-y-3 text-left">
             <li>
-              <a href="https://kouame21.github.io/zigbee2mqtt.io/" target="_blank" class="flex items-center gap-2 hover:underline">
                 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Pages" class="w-6 h-6 rounded" />
                 Voir mon site sur GitHub Pages
               </a>
